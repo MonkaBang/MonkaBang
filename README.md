@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jorge Serna
 
-🎵 Musician turned coder | 💻 Full-Stack Developer in the making | 🌐 Based in Monterrey, México
+🎵 Musician turned programmer | 💻 Full-Stack Developer in the making | 🌐 Based in Monterrey, México
 
 I'm currently studying software development and building projects through [CS50](https://cs50.harvard.edu/x/) and [The Odin Project](https://www.theodinproject.com/). I believe that creativity, whether through music or code, is a powerful tool for building meaningful experiences.
 
